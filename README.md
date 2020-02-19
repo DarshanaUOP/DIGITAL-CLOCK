@@ -1,3 +1,3 @@
-# CLOCK
+# CLOCK FIRMWARE
  >A homemade Clock 
  
