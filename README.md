@@ -7,5 +7,5 @@ it has ,<br>
 	* A microprocessor (ATMEGA 328P) - which is running this firmware
 	* 74HC328 - (High-Speed CMOS Logic 3- to 8-Line Decoder)
 	* DS1307 - RTC Module
-	and a set of Seven segment displays
+	and a set of Seven segment displays <br>
 <img src = "pcb.png" height = "350" >
