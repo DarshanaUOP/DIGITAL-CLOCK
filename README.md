@@ -11,4 +11,4 @@ it has ,<br>
 <img src = "pcb.png" height = "350" >
 
 I am using this clock as a prototype version for design and implement new fermware, new hardware pluggings and such implementations.
-JP3 of this circuit which you can see in above circuit is the connector of the module "DS1307 - RTC module" 
+JP3 of this circuit which you can see in above circuit is the connector of the module "DS1307 - RTC module" , if you need to connect your device you can remove it and update hardware.
