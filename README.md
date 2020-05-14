@@ -1,7 +1,7 @@
 # CLOCK FIRMWARE
 
 ### DESCRIPTION
-homemade Clock for develop your own clock firmware and your own hardware <br>
+homemade Clock for develope your own clock firmware and your own hardware <br>
 following figure is the PCB designed for this Clock
 it has ,<br>
 * A microprocessor (ATMEGA 328P) - which is running this firmware
