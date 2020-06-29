@@ -1,4 +1,6 @@
 # CLOCK FIRMWARE
+### LINKS
+More details on my [website](https://gotoabszero.000webhostapp.com/view.php?project_id=3)
 
 ### DESCRIPTION
 homemade Clock for develope your own clock firmware and your own hardware <br>
