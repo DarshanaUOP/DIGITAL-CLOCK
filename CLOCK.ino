@@ -1,8 +1,9 @@
 //Created by Darshana Ariyarathna.
 #include <Wire.h>
 
-int sec, mins, hrs, temp1, temp2,temp3;
+int sec, mins, hrs, temp1, temp2,temp3; 
 
+// Pin assignment
 int alarm = 0;
 
 int btn1 = 2;
